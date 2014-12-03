@@ -11,8 +11,9 @@
 	- Cards 2 through 7 increase the count by 1.
 	- Count does not change if the card is an 8 or a 9.
 	- If the card is a 10, J, Q, K, or A, decrease the count by 1.
-4. Provide the user with 4 random prompts along the way checking to see if they are keeping track. The program will alert them if their count is correct.
+4. Provide the user with 4 prompts along the way checking to see if they are keeping track. The program will alert them if their count is correct.
 5. Program should then offer the user to play again.
+6. Bonus: Randomize the 4 prompts so that they show up at varying times.
 
 ##Starter Code
 
