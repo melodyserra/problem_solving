@@ -5,7 +5,7 @@
 #####Your task is to set up a card counting training system for prospective gamers to learn how to count cards at the casino. Here are the rules:
 
 ##Rules
-1. User must be able to enter how many decks they want to play with. Each deck holds 52 cards (1 - 10, J, Q, K, A).
+1. User must be able to enter how many decks they want to play with. Each deck holds 52 cards (2 - 10, J, Q, K, A).
 2. The program must then display one card at a time so the user can keep track of the count. The rules are as follows:
 	- Count starts off at 4 - (4 * number_of_decks).
 	- Cards 2 through 7 increase the count by 1.
