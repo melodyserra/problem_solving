@@ -11,9 +11,8 @@
 	- Cards 2 through 7 increase the count by 1.
 	- Count does not change if the card is an 8 or a 9.
 	- If the card is a 10, J, Q, K, or A, decrease the count by 1.
-3. When the program finishes, it should ask the user what the count is, and alert them if they are right or wrong.
-4. Program should then offer the user to play again.
-5. Bonus: Instead of asking the user for the count at the end of the program, provide them with 4 random prompts along the way checking to see if they are keeping track. Provide one final prompt at the end.
+4. Provide the user with 4 random prompts along the way checking to see if they are keeping track. The program will alert them if their count is correct.
+5. Program should then offer the user to play again.
 
 ##Starter Code
 
