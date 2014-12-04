@@ -9,6 +9,9 @@ For each letter you add to the sum the 1-based position of the letter in the alp
 For 'a' you add 1, for 'b' you add '2', and so on.
 For example, the sum of the letters in "bad" is 2 + 1 + 4 = 7, and 7 is prime, so therefore, "bad" is Josh's string.
 
+### HINT: Think about what each letter is in terms of its relationship between
+its ascii code and its position in the alphabet.
+
 Your program should take input of the string from the user.
 It should validate that the string consists of only lower-case letters a-z.
   If it doesn't, it should ask the user for a new string.
